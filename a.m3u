@@ -1,0 +1,92 @@
+
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="BDIX Server 1",Asian TV [1]
+http://103.205.133.18/hls/asiantv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="BDIX Server 1",ATN Bangla [1]
+http://103.205.133.18/hls/atnbangla.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image2b075f0e0fd37461.png" group-title="BDIX Server 1",ATN News [1]
+http://103.205.133.18/hls/atnnews.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" group-title="BDIX Server 1",Bangla Vision [1]
+http://103.205.133.18/hls/banglavision.m3u8
+#EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BDIX Server 1",Bangla TV [1]
+http://103.205.133.18/hls/banglatv.m3u8
+#EXTINF:-13 group-title="BDIX Server 1"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",Bijoy Tv [1]
+http://103.205.133.18/hls/bijoytv.m3u8
+#EXTINF:-16 group-title="BDIX Server 1"tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_bd.jpg",BTV [1]
+http://103.205.133.18/hls/btv.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BDIX Server 1",Boishakhi [1]
+http://103.205.133.18/hls/boisakhi.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="BDIX Server 1",BTV [1]
+http://103.205.133.18/hls/btv.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="BDIX Server 1",BTV World [1]
+http://103.205.133.18/hls/btvworld.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="BDIX Server 1",Channel 9 [1]
+http://103.205.133.18/hls/ninechannel.m3u8
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="BDIX Server 1",CHANNEL 24 [1]
+http://103.205.133.18/hls/channel24.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image33ddf62bcf70a5b9.png" group-title="BDIX Server 1",Channel I [1]
+http://103.205.133.18/hls/ichannel.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BDIX Server 1",DBC News [1]
+http://103.205.133.18/hls/dbcnews.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="BDIX Server 1",Deepto TV [1]
+http://103.205.133.18/hls/deeptotv.m3u8
+#EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BDIX Server 1",Desh TV [1]
+http://103.205.133.18/hls/deshtv.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-W7By0Drr_FY/W7hLyJYDouI/AAAAAAAACig/XkemryiwRXoPiDD07DTc_xlzgrziU6SpgCLcBGAs/s1600/Digi-Bangla-24-bd.png" group-title="BDIX Server 1",Digi Bangla TV [1]
+
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BDIX Server 1",Ekattor [1]
+http://103.205.133.18/hls/ekatoortv.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png" group-title="BDIX Server 1",Ekushey TV [1]
+http://103.205.133.18/hls/ekushey.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="BDIX Server 1",Gaan Bangla HD [1]
+http://103.205.133.18/hls/gaanbangla.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/imaged485611e23a7ca51.png" group-title="BDIX Server 1",Independent [1]
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="BDIX Server 1",Jamuna TV [1]
+http://103.205.133.18/hls/jamunatv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BDIX Server 1",Mohona TV [1]
+http://103.205.133.18/hls/mohonatv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BDIX Server 1",My TV HD [1]
+http://103.205.133.18/hls/mytv.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="BDIX Server 1",Nagorik TV [1]
+http://103.205.133.18/hls/nagorik.m3u8
+#EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/TfqhT5g.png" group-title="BDIX Server 1",News 24 [1]
+http://103.205.133.18/hls/news24.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/vPl5dF8.png" group-title="BDIX Server 1",NTV [1]
+http://103.205.133.18/hls/ntv.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BDIX Server 1",RTV [1]
+http://103.205.133.18/hls/rtv.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BDIX Server 1",SATV [1]
+http://103.205.133.18/hls/satv.m3u8
+#EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="BDIX Server 1",Somoy TV [1]
+http://103.205.133.18/hls/somoy.m3u8
+#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png"group-title="BDIX Server 1",Peace TV Bangla [1]
+http://103.205.133.18/hls/peacetv.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5z0PcNEZPbEuJOzwkooOaH_y6VOQ98H_djBgnqmvSO0NQppcW&usqp=CAU" group-title="BDIX Server 1",Bangla Time [1]
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Dhoom_Music_old.jpeg" group-title="BDIX Server 1",Dhoom Music [1]
+http://103.205.133.18/hls/dhoommusic.m3u8
+#EXTINF:0 tvg-logo="https://i.pinimg.com/474x/a8/de/fc/a8defc23b6e6f16ade5eed08a8dc8eed.jpg" group-title="BDIX Server 1",Sangeet Bangla [1]
+http://103.205.133.18/hls/sangeetbangla.m3u8
+#EXTINF:-35 group-title="BDIX Server 1"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyJ2tK6_lWITqktAIrBuzZIfwUgJPHwAGwQ&usqp=CAU",9XM [1]
+http://103.205.133.18/hls/9xm.m3u8
+#EXTINF:-91 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="BDIX Server 1",Ary Music [1]
+http://103.205.133.18/hls/arymusic.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BDIX Server 1",Ruposhi Bangla [1]
+http://103.205.133.18/hls/ruposhibangla.m3u8
+#EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BDIX Server 1",Sony Aath [1]
+http://103.205.133.18/hls/sony8.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BDIX Server 1",Star Jalsha [1]
+http://103.205.133.18/hls/chsj.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg"" group-title="BDIX Server 1",Zee Bangla [1]
+http://103.205.133.18/hls/zeebanglahd.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/yBMKPcX.png" group-title="BDIX Server 1",And Picture [1]
+http://103.205.133.18/hls/andpicture.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="BDIX Server 1",And TV [1]
+http://103.205.133.18/hls/andtv.m3u8
+#EXTINF:0 tvg-logo="https://www.adgully.com/img/800/202006/colors-rishtey_2.png.jpg" group-title="BDIX Server 1",Colors [1]
+http://103.205.133.18/hls/chc.m3u8
+#EXTINF:0 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="BDIX Server 1",Sony [1]
+http://103.205.133.18/hls/chs.m3u8
+#EXTINF:0 tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/912d9aff2264860b.jpg" group-title="BDIX Server 1",Star Plus [1]
+http://103.205.133.18/hls/chsp.m3u8
+
